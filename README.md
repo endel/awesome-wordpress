@@ -17,6 +17,7 @@ A curated list of awesome WordPress plugins for developers.
 - [Tablepress](https://wordpress.org/plugins/tablepress/) - Easily create and embed tables on posts.
 - [Gallery Custom Links](https://wordpress.org/plugins/wp-gallery-custom-links/) - Adds "Gallery Link URL" to gallery item fields.
 - [Crontab scheduler](https://wordpress.org/plugins/cronjob-scheduler) - Easily manage and register tasks to run automatically.
+- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Create and manage multiple contact forms.
 
 ## Tools
 

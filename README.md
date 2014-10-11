@@ -21,6 +21,7 @@ A curated list of awesome WordPress plugins for developers.
 
 ## Tools
 
+- [wp-cli](https://github.com/wp-cli/wp-cli) - A command line interface for WordPress
 - [Underscores.me](http://underscores.me/) - Clean and commented theme to start a project.
 - [Generate WP](http://generatewp.com/) - Common code snippets generator.
 

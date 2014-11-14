@@ -3,9 +3,15 @@
 A curated list of awesome WordPress plugins for developers.
 
 - [Awesome WordPress](#awesome-wordpress)
+  - [Extending WordPress](#extending-wordpress)
   - [Administrator plugins](#administrator-plugins)
-  - [Tools](#tools)
   - [Themes](#themes)
+  - [Tools](#tools)
+
+## Extending WordPress
+
+- [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Clear and consistent guide for building your plugins.
+- [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Clear and consistent guide for building your widgets.
 
 ## Administrator plugins
 
@@ -19,13 +25,13 @@ A curated list of awesome WordPress plugins for developers.
 - [Crontab scheduler](https://wordpress.org/plugins/cronjob-scheduler) - Easily manage and register tasks to run automatically.
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Create and manage multiple contact forms.
 
-## Tools
-
-- [wp-cli](https://github.com/wp-cli/wp-cli) - A command line interface for WordPress
-- [Underscores.me](http://underscores.me/) - Clean and commented theme to start a project.
-- [Generate WP](http://generatewp.com/) - Common code snippets generator.
-
 
 ## Themes
 
-TODO
+- [Underscores.me](http://underscores.me/) - Clean and commented theme to start a project.
+
+
+## Tools
+
+- [wp-cli](https://github.com/wp-cli/wp-cli) - A command line interface for WordPress
+- [Generate WP](http://generatewp.com/) - Common code snippets generator.
